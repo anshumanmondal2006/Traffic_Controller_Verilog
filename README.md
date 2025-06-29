@@ -429,6 +429,10 @@ Future improvements could include solar-powered operation for energy independenc
 
 9. https://www.slideshare.net/UtkarshDe/four-way-traffic-light-conrol-using-verilog
 
+
+## License
+📄 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 ## Author
 
 - [Anshuman Mondal](https://github.com/anshumanmondal2006)
