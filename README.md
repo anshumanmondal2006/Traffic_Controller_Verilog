@@ -433,6 +433,7 @@ Future improvements could include solar-powered operation for energy independenc
 ## License
 📄 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## Author
+For any further queries, feel free to reach out:
 
-- [Anshuman Mondal](https://github.com/anshumanmondal2006)
+📧 Email: [anshuman.mondal@iitg.ac.in](mailto:anshuman.mondal@iitg.ac.in)  
+🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/anshuman-mondal-145314280)
